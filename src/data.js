@@ -1,24 +1,29 @@
 const questions = [
     {
         id: 1,
-        title: "Jaké typy filmů najdu na Netflixu?",
-        info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo vitae dolores doloremque facilis a earum error dignissimos modi possimus harum."
+        title: "Jaké mám vzdělání?",
+        info: "V září 2023 jsem dokončila rekvalifikační kurz Programování www aplikací na VŠB - Technické univerzitě v Ostravě. Aktuálně dělám kurz Google IT Automation with Python."
     },
     {
         id: 2,
-        title: "Jak se na Netflix přihlásím?",
-        info: "Consectetur adipisicing elit. Illo vitae dolores doloremque facilis a earum error dignissimos modi possimus harum, iste, accusantium numquam magni excepturi maiores rem molestiae in maxime."
+        title: "Jaké dovednosti Vám mohu nabídnout?",
+        info: "Baví mě vytvářet webové stránky - používám HTML, CSS, JavaScript, PHP a Bootstrap. Mám také základy Reactu a SQL, umím pracovat s Gitem a práci nahrávat na GitHub."
     },
     {
         id: 3,
-        title: "Kolik stojí měsíční členství na Netflixu?",
-        info: "Sit amet, consectetur adipisicing elit. Illo vitae dolores doloremque facilis a earum error dignissimos modi possimus harum."
+        title: "Čeho chci dosáhnout?",
+        info: "Ráda bych si našla práci v IT, ideálně jako juniorní front-end vývojářka. Přála bych si práci, kde bych se mohla nadále rozvíjet a učit se novým technologiím."
     },
     {
         id: 4,
-        title: "Jak často Netflix přidává nové filmy?",
-        info: "Iste, accusantium numquam magni excepturi maiores rem molestiae in maxime."
+        title: "Jaké mám zájmy?",
+        info: "IT se stalo také mým koníčkem, takže ve volném čase se ráda učím z různých zdrojů (YouTube, itnetwork apod.). Mou oblíbenou zábavou jsou deskovky - jednou týdně pomáhám s vedením klubu deskových her. Kromě toho mám ráda turistiku, přírodu a celkově cestování."
     },
+    {
+        id: 5,
+        title: "Jaké jsou mé silné stránky?",
+        info: "Pečlivost, cit pro detail, spolehlivost."
+    }
 ]
 
 export default questions
