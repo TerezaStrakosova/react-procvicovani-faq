@@ -18,11 +18,6 @@ const questions = [
         id: 4,
         title: "Jaké mám zájmy?",
         info: "IT se stalo také mým koníčkem, takže ve volném čase se ráda učím z různých zdrojů (YouTube, itnetwork apod.). Mou oblíbenou zábavou jsou deskovky - jednou týdně pomáhám s vedením klubu deskových her. Kromě toho mám ráda turistiku, přírodu a celkově cestování."
-    },
-    {
-        id: 5,
-        title: "Jaké jsou mé silné stránky?",
-        info: "Pečlivost, cit pro detail, spolehlivost."
     }
 ]
 
